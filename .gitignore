@@ -1,0 +1,14 @@
+# Backend
+backend/__pycache__/
+backend/*.pyc
+backend/disease_prediction.db
+backend/.venv/
+backend/venv/
+backend/.env
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# OS
+.DS_Store
